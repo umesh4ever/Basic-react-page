@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+#rightOverFlowDiv::-webkit-scrollbar{
+    display: none;   
+}
